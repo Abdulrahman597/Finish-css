@@ -1,0 +1,101 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* start header section  */
+
+
+
+.header{
+    background-image: url(../img/download.jpg);
+    background-size: cover;
+    height: 600px;
+}
+.header-content{
+    height: 500px;
+}
+.header-content h2{
+    font-size: 41px;
+    line-height: 1.5;
+    background-color: #61a48d;
+    padding: 33px;
+    border-radius: 16px;
+}
+/* end header section  */
+
+/* start clinic center  */
+.clinic h3{
+    font-family: cursive;
+    word-spacing: 2px;
+    letter-spacing: 1px;
+    color: #074d4c;
+}
+
+.clinic hr{
+    width: 212px;
+    margin: auto;
+    margin-top: 16px;
+    height: 4px;
+    background-color: #e98317;
+    border: none;
+}
+.clinic h4{
+    font-family: cursive;
+    word-spacing: 2px;
+    letter-spacing: 1px;
+    color: #489da6;
+}
+
+/* end clinic center  */
+
+/* start touch section  */
+
+.touch{
+    background-image: url(../img/Path\ 62.png) , url(../img/i-love-my-job-so-much_329181-2178.png);
+    background-size: cover;
+    height: 800px;
+}
+.touch h4{
+    font-size: 20px;
+    color: #439da5;
+}
+/* start touch section  */
+
+/* start media section  */
+
+.media img{
+    margin-top: 112px;
+    display: flex;
+    justify-content: space-between;
+    width: 180px;
+}
+
+/* end media section  */
+
+/* start sides section  */
+
+.sides{
+    background-color: #0f7b65;
+    height: 350px;
+    margin-top: 70px;
+    border-radius: 180px 180px 0px 0px;
+}
+.sides h3{
+    margin-top: 15px;
+    color: #f48e7f;
+    padding: 25px 110px 7px 0;
+}
+.sides a{
+    line-height: 48px;
+    display: flex;
+    color: #fff;
+    text-decoration: none;
+}
+.sides a:hover{
+    text-decoration: underline;
+}
+.finish{
+    margin-left: 37px;
+    text-align: center;
+}
+/* end sides section  */
